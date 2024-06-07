@@ -1,5 +1,5 @@
 module github.com/siyouyun-open/imaging
 
-go 1.18
+go 1.22
 
-require golang.org/x/image v0.2.0
+require golang.org/x/image v0.17.0
